@@ -1,4 +1,14 @@
 baseURL = 'https://yuchen1204.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Daily Blog'
 theme = "void"
+
+[params]
+  [params.social]
+    github = "https://github.com/yuchen1204"
+    twitter = "https://twitter.com/yccc_0000"
+    email = "yuchen@yuchen.my"
+  [params.avatar]
+    url = "https://blogdata.yuchen.my/IMG_20241104_222216.jpg"
+
+
